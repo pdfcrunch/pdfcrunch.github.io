@@ -1,0 +1,30 @@
+.super {
+    font-size: larger;
+}
+.superbullet::before {
+    content: $cog;
+}
+
+.divider {
+    background-color: $grey-color-dark;
+    color: $grey-color-light;
+}
+.divider.alt {
+    background-color: $grey-color-light;
+    color: $grey-color-dark;
+}
+
+div.divider {
+    padding: $spacing-unit;
+    margin-left: -15px;
+    margin-right: -15px;
+    display: block;
+    text-align: center;
+}
+div.divider::after {
+    content: $cog;
+}
+
+div.section {
+    padding: 2 * $spacing-unit;
+}

@@ -1,0 +1,12 @@
+.pricing {
+    padding: $spacing-unit;
+    background-color: lighten($brand-color, 20%);
+    blockquote {
+        background-color: white;
+    }
+    margin: 10px;
+}
+.pricing.super {
+    background-color: lighten($accent-color, 10%) !important;
+    margin: 0px;
+}
