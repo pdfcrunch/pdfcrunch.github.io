@@ -40,3 +40,14 @@ permalink: /pricing/
 </div>
 </div>
 
+<div class="divider alt">
+# Where do I sign up?
+</div>
+
+<div class="section">
+
+Yes, no signup/payment buttons (yet), because we're in the final stages of private beta testing.
+
+If you would like to help out, please [let us know](https://goo.gl/forms/pLz77NMqk6Nb0ueD2).
+
+</div>

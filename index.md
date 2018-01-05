@@ -9,7 +9,7 @@ We've all been there.
 
 You copy/paste a table from a PDF into a spreadsheet, only to spend time cleaning up formatting, whitespace, and misaligned rows and columns.
 
-Skip the Excel gymnastics, and let pdfcrun.ch turn your PDF into a database.
+Skip the Excel gymnastics, and let **pdfcrunch** turn your PDFs into data.
 
 </div>
 
