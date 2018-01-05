@@ -10,13 +10,13 @@
 .threethings {
     display: grid;
     grid-gap: $spacing-unit;
-    grid-template-areas: "thing1 thing2 thing3"
+    grid-template-areas: "thing1 thing2 thing3";
 }
 
 @include media-query($on-laptop) {
     .threethings {
         display: grid;
-        grid-template-areas: "thing1" "thing2" "thing3"
+        grid-template-areas: "thing1" "thing2" "thing3";
     }
 }
 
@@ -35,9 +35,12 @@
 .footerthings {
     display: grid;
     grid-gap: $spacing-unit * 2;
-    grid-template-areas: "foot1 foot2 foot3 foot4"
+    grid-template-areas: "foot1 foot2 foot3 foot4";
 }
 
 @include media-query($on-laptop) {
-    grid-template-area: "foot1" "foot2" "foot3" "foot4"
+    .footerthings {
+        display: grid;
+        grid-template-areas: "foot1" "foot2" "foot3" "foot4";
+    }
 }
