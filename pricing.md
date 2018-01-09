@@ -12,7 +12,7 @@ permalink: /pricing/
 <div class="thing1 pricing">
 ### Pay As You Go
 
-> 20p per page
+> 10p per page
 
 - &#8734; pages
 - email support
@@ -21,9 +21,10 @@ permalink: /pricing/
 <div class="thing2 pricing super">
 ### Startup
 
-> £20/m
+> £60/m
 
-- 1,000 pages
+- 3p per page
+- 2,000 pages
 - email support
 
 </div>
@@ -31,7 +32,7 @@ permalink: /pricing/
             
 ### Enterprise
 
-> Call us!
+> Email us!
 
 - &#8734; pages
 - on-premise
