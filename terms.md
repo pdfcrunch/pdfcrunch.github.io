@@ -1,37 +1,68 @@
 ---
 layout: home
-title: Terms
+title: Terms of Service
 permalink: /terms/
 ---
 <div class="divider">
-# Free Use
-## pdfcrunch Service Terms
+# Terms of Service
 </div>
 
 
 <div class="section">
 
-You may use the <strong>pdfcrunch</strong> services without charge for the free use period on the following conditions:
+# Unleash Your Server LTD Terms of Service
 
-- You use the services for the purpose of evaluating a possible subscription purchase and to prepare your configurations for paid use under a subscription. You may not use the services to generate or collect revenue during the free use period.
-- On <strong>pdfcrunch</strong>’s request, you provide feedback about your experience with the services.
-- Your use complies with applicable law and industry standards for acceptable use, such as the AUP at [https://aws.amazon.com/aup/](https://aws.amazon.com/aup/).
-- You do not attempt to copy or modify the services, or reverse engineer, disassemble or decompile the services.
+## 1. Terms
 
-During the free use period <strong>pdfcrunch</strong> will comply with its Privacy Practices with respect to the information you submit to establish your account. When you purchase a Subscription, your account information will be "Confidential Information" covered by the Subscription services terms.
+By accessing the website at https://pdfcrun.ch, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
 
-## Disclaimers
+## 2. Use License
 
-**Free use services are live.**
+  
+    
+- a. Permission is granted to temporarily download one copy of the materials (information or software) on Unleash Your Server LTD's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+    - i. modify or copy the materials;
+    - ii. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
+    - iii. attempt to decompile or reverse engineer any software contained on Unleash Your Server LTD's website;
+    - iv. remove any copyright or other proprietary notations from the materials; or
+    - v. transfer the materials to another person or "mirror" the materials on any other server.
+      
+    
+- b. This license shall automatically terminate if you violate any of these restrictions and may be terminated by Unleash Your Server LTD at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+  
 
-**pdfcrunch does not commit to retaining your information indefinitely.** At some point **pdfcrunch** will require you to purchase a Subscription or stop using the service. If you do not purchase a Subscription, **pdfcrunch** will purge all your data. Please keep a backup of all information that you create using the services.
+## 3. Disclaimer
 
-**Free use services are provided AS IS.** During the free use period the services are provided **AS IS**, with no representation or warranty whatsoever. You acknowledge that **pdfcrunch** makes no commitment to you regarding the availability of the services or security of your data or other information during the free use period. If you choose to use actual data to test the services, you do so at your sole risk. **pdfcrunch** may provide support during the free use period, but is not required to. Any support that **pdfcrunch** provides during the free use period is provided **AS IS**.
+  
+- a. The materials on Unleash Your Server LTD's website are provided on an 'as is' basis. Unleash Your Server LTD makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+- b. Further, Unleash Your Server LTD does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+  
 
-**pdfcrunch may terminate your use of the free services at any time in its sole discretion.** We may terminate your free use account at any time for any or no reason. We will give you a reasonable opportunity to recover your data if we terminate your free use service without advance notice.
+## 4. Limitations
 
+In no event shall Unleash Your Server LTD or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Unleash Your Server LTD's website, even if Unleash Your Server LTD or a Unleash Your Server LTD authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+
+## 5. Accuracy of materials
+
+The materials appearing on Unleash Your Server LTD website could include technical, typographical, or photographic errors. Unleash Your Server LTD does not warrant that any of the materials on its website are accurate, complete or current. Unleash Your Server LTD may make changes to the materials contained on its website at any time without notice. However Unleash Your Server LTD does not make any commitment to update the materials.
+
+## 6. Links
+
+Unleash Your Server LTD has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Unleash Your Server LTD of the site. Use of any such linked website is at the user's own risk.
+
+## 7. Modifications
+
+Unleash Your Server LTD may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+
+## 8. Governing Law
+
+These terms and conditions are governed by and construed in accordance with the laws of United Kingdom & Wales and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+
+
+                       
+                        
 *pdfcrunch is a registered trademark of Unleash Your Server LTD (UK00003252781)*
 
-*Last Updated: 13:00pm GMT, January 4, 2018*
+*Last Updated: 17:00pm GMT, January 9, 2018*
 
 </div>
