@@ -10,20 +10,49 @@ permalink: /privacy/
 
 <div class="section">
 
+
 Your privacy is important to us.
 
-We don’t ask for your personal information unless we truly need it.
+As a web-based service provider, we require some personal information in order to provide a service to you.
 
-We don’t share your personal information with third-parties, except where required by law.
+However, we don’t ask for this information unless we truly need it.
 
-It is Unleash Your Server LTD's policy to respect your privacy regarding any information we may collect from you across our website, https://pdfcrun.ch.
-
+It is Unleash Your Server LTD's policy to respect your privacy regarding any information we may collect from you across our website, [https://pdfcrun.ch](https://pdfcrun.ch), and its subdomains.
 
 ## Personal Information
   
-We may ask you for personal information, such as your name, email, address, contact details and payment details. We collect only the personal information relevant to providing you with a service, and use your information only to ensure the fulfilment of this service. You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services without this information.
+We may ask you for personal information, such as:
 
-We do not share your personal information with third-parties, except where required by law or to protect our own rights. We will only retain personal information for as long as necessary to provide you with a service.
+- Your name
+- Email address
+- Age / date of birth
+- Social media profile/s
+- Contact details
+- Company details, and
+- Payment details
+
+This information is used for the purposes of:
+
+- providing you with products and services
+- providing you with information about our products and services
+- managing and improving our products, services, quality control, administration, communication and internal processes
+- personalising and customising your experience with us
+- verifying your identity
+- granting you access to your account with us
+- investigating any enquiries or complaints submitted by or about you; and/or
+- complying with regulatory or legal obligations
+
+You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+
+We do not share your personal information with third-parties, except where required by law, to protect our own rights, or to provide a service to you.
+
+We may, however, disclose anonymised and aggregated versions of this information for business, marketing or public relations purposes.
+
+We will only retain personal information for as long as necessary to provide you with a service.
+
+## Business Data
+
+Our respect for your privacy extends to the data you input into our website over the normal course of using our services. We will not share your data with third-parties, except where required by law, to protect our own rights, or to provide a service to you. We may, however, disclose anonymised and aggregated versions of this information for business, marketing or public relations purposes. We will only retain your data for as long as necessary to provide you with a service.
 
 ## Cookies
 
@@ -33,12 +62,15 @@ If you do not wish to accept cookies from us, you should instruct your browser t
 
 ## Third-Party Services
 
-We may employ third-party companies and individuals on our websites - for example, analytics providers and content partners. These third parties have access to your personal information only to perform specific tasks on our behalf, and are obligated not to disclose or use it for any other purpose.
+We employ third-party services for our:
 
-A non-exhaustive list of services we use are:
+- Website analytics
+- Payment processing (checkout)
+- Live chat / customer support
+- Customer relationship management, and
+- Advertising and remarketing
 
-- Google Analytics
-- Stripe
+These third parties have access to selected personal information only to perform specific tasks on our behalf or to improve the relevance of information presented to you. We review the privacy policies of all our third-party providers before enlisting their services to ensure their practices align with ours.
 
 ## Security
 
@@ -48,19 +80,15 @@ We take security seriously, and do what we can within commercially acceptable me
 
 Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot assume responsibility for their treatment of your personal information. This privacy policy only covers our website and privacy practices.
 
-## Children’s Privacy
-  
-We do not knowingly collect or store personal information from children (visitors under the age of 13). If you believe your child has provided us with personal information, we encourage you to contact us immediately, and we will do our best to delete the data as quickly as possible.
-
 ## Changes to our Privacy Policy
 
-At our discretion, we may change our privacy policy from time to time. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
+At our discretion, we may change our privacy policy from time to time. Any changes will be reflected here, so we encourage you to visit this page regularly. We will also notify our registered users of updates to our policy. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
 
 ## Business Transfers
 
 If we or our assets are acquired, or in the unlikely event that we go out of business or enter bankruptcy, we would include user information among our assets transferred to or acquired by a third party. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy.
-						
-                         
+
+
 *pdfcrunch is a registered trademark of Unleash Your Server LTD (UK00003252781)*
 
 *Last Updated: 17:00pm GMT, January 9, 2018*
