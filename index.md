@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="section super">
-# pdfcrunch turns PDFs into data
+# **pdfcrunch** turns PDFs into data
 
 We've all been there.
 
@@ -30,7 +30,7 @@ Upload your PDF. It's as simple as drag-and-drop.
 <div class="thing2">
 ### 2. Crunch
 
-We crunch your data for you. Or, you take the reigns by drawing and tagging stencils over key areas.
+We crunch your data for you. Or, you take the reins by drawing and tagging stencils over key areas.
 
 ![Step 2](assets/img/step2.png)
 
@@ -47,7 +47,6 @@ Once your PDF has been crunched, download your data bundle.
 
 <div class="divider alt">
 ## What else!?
-##### I know &mdash; we can barely contain our own excitement too.
 </div>
 
 <div class="threethings section">
