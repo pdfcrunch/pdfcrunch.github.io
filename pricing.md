@@ -40,7 +40,7 @@ permalink: /pricing/
 
 The first 50 pages are on us!
 
-Page credits are valid for a year.
+Page credits are valid for one year from purchase.
 
 [Signup](https://my.pdfcrun.ch/) is currently [invite-only](https://goo.gl/forms/pLz77NMqk6Nb0ueD2).
 
