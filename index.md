@@ -76,5 +76,8 @@ In fact, we're working hard on a new V2 deep neural net algorithm to make it the
 Access your crunched data right here as a CSV download, or via an API.
 
 </div>
+
+[Sign up now]({{ site.baseurl }}{% link signup.md %}){:.calltoaction}
+
 </div>
 

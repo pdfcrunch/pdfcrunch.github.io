@@ -1,11 +1,11 @@
 ---
 layout: home
 in_header: true
-title: Pricing
-permalink: /pricing/
+title: Signup
+permalink: /signup/
 ---
 <div class="divider">
-# Pricing
+# Signup
 </div>
 
 <div class="section">
@@ -42,7 +42,7 @@ The first 50 pages are on us!
 
 Page credits are valid for one year from purchase.
 
-[Signup](https://my.pdfcrun.ch/) is currently [invite-only](https://goo.gl/forms/pLz77NMqk6Nb0ueD2).
+Go to [the app](https://my.pdfcrun.ch/) to log in. Access is currently by [invitation only](https://goo.gl/forms/pLz77NMqk6Nb0ueD2).
 
 </div>
 
