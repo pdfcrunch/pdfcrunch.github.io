@@ -42,7 +42,7 @@ The first 50 pages are on us!
 
 Page credits are valid for one year from purchase.
 
-Go to [the app](https://my.pdfcrun.ch/) to log in. Access is currently by [invitation only](https://goo.gl/forms/pLz77NMqk6Nb0ueD2).
+[Launch the app now!](https://my.pdfcrun.ch/){:.calltoaction}
 
 </div>
 
