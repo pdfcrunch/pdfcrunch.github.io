@@ -10,6 +10,11 @@ permalink: /signup/
 
 <div class="section">
 
+<span style="background:yellow">
+The first 50 pages are free!
+</span>
+
+Thereafter, the following applies:
 
 <table>
     <thead>
@@ -38,7 +43,6 @@ permalink: /signup/
 </tr>
 </script>
 
-The first 50 pages are on us!
 
 Page credits are valid for one year from purchase.
 
