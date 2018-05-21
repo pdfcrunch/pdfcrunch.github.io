@@ -46,7 +46,7 @@ Thereafter, the following applies:
 
 Page credits are valid for one year from purchase.
 
-[Launch the app now!](https://my.pdfcrun.ch/){:.calltoaction}
+[Email us!](mailto:pdfcrunch@uys.io){:.calltoaction}
 
 </div>
 
