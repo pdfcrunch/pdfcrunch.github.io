@@ -5,3 +5,38 @@ $cog: "⚙️   ";
 "grid",
 "pricing"
 ;
+
+
+.highlight {
+	background-color: lighten($accent-color, 20%);
+}
+
+.tags > ul {
+	list-style: none;
+	margin-left: 0px;
+}
+.tags > ul > li {
+	display: inline;
+}
+
+.tags > ul > li:not(:last-child)::after {
+	content: ',';
+}
+.tags > ul > :first-child::before {
+	content: 'tagged ';
+}
+// .tags > ul > li:first-child::before {
+// 	content: '[';
+// }
+// .tags > ul > li:last-child::after {
+// 	content: ']';
+// }
+
+.post-content {
+  padding-top: $spacing-unit;
+}
+
+.post-header {
+  padding: $spacing-unit 0;
+  background-color: lighten($grey-color-light, 1%);
+}

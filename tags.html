@@ -1,0 +1,67 @@
+---
+layout: page
+title: Posts by tag
+---
+
+<noscript>
+  You don't have Javascript enabled, so please find the tag in the listing below.
+</noscript>
+
+{% assign sorted_tags = (site.tags | sort:0) %}
+
+<div id="tags_container">
+  {% for tag in sorted_tags %}
+    {% assign t = tag | first | downcase %}
+    {% assign posts = tag | last %}
+
+    <div id="{{t}}">
+      {{ t }}
+      <ul>
+      {% for post in posts %}
+        {% if post.tags contains t %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>
+
+<script type="text/javascript">
+var parent = document.getElementById('tags_container');
+function getTag() {
+	var parts = document.URL.split('#');
+  return (parts.length > 1) ? parts[1] : null;
+}
+var tag = getTag();
+if (tag !== null) {
+  var children = parent.children
+  for (var i=0; i < children.length; i++) {
+    var child = children[i];
+    if (child.id !== tag) {
+      child.style = 'display: none;'
+    }
+  }
+  // also offer the opportunity to see all tags
+  var seeAll = document.createElement('a');
+  seeAll.href = '/tags';
+  seeAll.title = seeAll.text = 'See all tags.';
+  seeAll.className = 'see_all_tags';
+  parent.prepend(seeAll);
+}
+</script>
+
+
+
+{% comment %}
+<ul class="tags">
+{% for tag in sorted_tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+{% endfor %}
+</ul>
+{% endcomment %}
