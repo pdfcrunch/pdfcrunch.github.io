@@ -10,7 +10,7 @@ v3: current website!
 
 # TODO
 
-## Blog posts
+## Migrate old Blog posts
 
 LayoutXLM
 An adventure in achieving accurate document layout detection.
