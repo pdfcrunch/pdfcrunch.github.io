@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Twitter",
+    "fa_icon": "fab fa-twitter",
+    "url": "https://twitter.com/pdfcrunch"
+  },
+  {
+    "title": "Github",
+    "fa_icon": "fab fa-github",
+    "url": "https://github.com/pdfcrunch"
+  },
+  {
+    "title": "Linkedin",
+    "fa_icon": "fab fa-linkedin",
+    "url": "https://www.linkedin.com/company/94227804"
+  }
+]

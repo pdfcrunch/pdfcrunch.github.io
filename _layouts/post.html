@@ -1,47 +1,77 @@
 ---
 layout: default
+body_classes: page-post page-post-1
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- endif -%}</p>
+<div class="section">
+  <div class="container post-header">
 
-      <div class="tags">
-        <ul>
-        {% for tag in page.tags %}
-          <li><a title="tag: {{tag}}" href="/tags#{{tag}}">{{ tag }}</a></li>
-        {% endfor %}
-        </ul>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+          {% if page.date %}
+            <div class="post-date">{{ page.date | date_to_long_string }}</div>
+          {% endif %}
+          {% if page.categories %}
+          <div class="post-categories">
+          {% include framework/categories-badges.html 
+              categories=page.categories
+          %}
+          {% endif %}
+          </div>
+          <div class="post-title">
+            <h1>{{ page.title }}</h1>
+          </div>
+          {% if page.description %}
+            <div class="post-description">
+              <p>{{ page.description }}</p>
+            </div>
+          {% endif %}
+
+          {% if page.authors %}
+            <div class="post-authors">
+              {% for author in page.authors %}
+              {% assign author_id = author | replace: " ", "_" | downcase %}
+              {% assign author_object = site.data.authors[author_id] %}
+              {% include framework/author.html 
+                name=author_object.name
+                job=author_object.job
+                image=author_object.image
+              %}
+              {% endfor %}
+            </div>
+          {% endif %}
+
       </div>
-  </header>
-
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-
-  <div class="previousnext">
-
-    {% if page.previous.url %}
-      <a class="pnbox prev" href="{{site.baseurl}}{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-    {% endif %}
-
-    {% if page.next.url %}
-      <a class="pnbox next" href="{{site.baseurl}}{{page.next.url}}">{{page.next.title}} &raquo;</a>
-    {% endif %}
+    </div>
+          
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        {% if page.image %}
+          <div class="post-image">
+            <img src="{{ page.image }}" alt="{{ page.title }}" />
+          </div>
+        {% endif %}
+      </div>
+    </div>
 
   </div>
-</article>
+</div>
+
+<div class="section pt-0">
+  <div class="container">
+    <div class="row justify-content-center">
+
+      <div class="col-12 col-lg-8">
+        <div class="content">{{ content }}</div>
+        {% if site.disqus.shortname %}
+        {% if page.comments != false %}
+          <div class="comments mt-3">
+            {% include framework/global/integrations/disqus.html %}
+          </div>
+        {% endif %}
+        {% endif %}
+      </div>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Microsoft Azure",
+    "image": "assets/images/partners/microsoft-azure.png",
+    "url": "https://azure.microsoft.com/"
+  },
+  {
+    "title": "Google Cloud Platform",
+    "image": "assets/images/partners/gcp.png",
+    "url": "https://cloud.google.com/"
+  },
+  {
+    "title": "NVidia",
+    "image": "assets/images/partners/nvidia.png",
+    "url": "https://www.nvidia.com/"
+  },
+  {
+    "title": "HuggingFace",
+    "image": "assets/images/partners/huggingface.png",
+    "url": "https://huggingface.co/"
+  },
+  {
+    "title": "Amazon Web Services",
+    "image": "assets/images/partners/aws.png",
+    "url": "https://aws.amazon.com/"
+  }
+]

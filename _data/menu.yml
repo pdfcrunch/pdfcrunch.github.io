@@ -1,0 +1,82 @@
+main:
+  - name: Home
+    url: /
+    weight: 1
+  - name: Services
+    url: /services/
+    weight: 1
+    child:
+      - name: "Document Understanding"
+        url: /services/document-understanding/
+      - name: "MLOps"
+        url: /services/mlops/
+      - name: "Data Engineering"
+        url: /services/data-engineering/
+      - name: "Open Source"
+        url: /services/open-source/
+      - name: "Data Synthesis"
+        url: /services/data-synthesis/
+      - name: "Bespoke Development & Consulting"
+        url: /services/bespoke/
+  # - name: Projects
+  #   url: /projects/
+  #   weight: 2
+  #   child:
+  #     - name: "Book Design"
+  #       url: /projects/book-design/
+  #     - name: "Special Edition"
+  #       url: /projects/special-edition/
+  #     - name: "Master System"
+  #       url: /projects/master-system/
+  #     - name: "Clothing Range"
+  #       url: /projects/clothing-range/
+  - name: Blog
+    url: /blog/
+    weight: 4
+  - name: About
+    url: /about/
+    weight: 5
+  # - name: Buy Now
+  #   url: https://pdfcrun.ch/app
+  #   weight: 6
+footer_primary:
+  - name: Home
+    url: /
+    weight: 1
+  - name: Services
+    url: /services/
+    weight: 2
+  # - name: Projects
+  #   url: /projects/
+  #   weight: 3
+  
+footer_secondary:
+  - name: About
+    url: /about/
+    weight: 1
+  - name: Team
+    url: /team/
+    weight: 2
+  - name: Blog
+    url: /blog/
+    weight: 3
+  - name: Contact
+    url: /contact/
+    weight: 4
+footer_tertiary:
+  - name: Privacy Policy
+    url: /privacy-policy/
+    weight: 1
+  - name: Terms and Conditions
+    url: /terms-and-conditions/
+    weight: 2
+  # - name: Buy Now
+  #   url: https://www.zerostatic.io/theme/jekyll-advance/
+  #   weight: 3
+bottom:
+  - name: Privacy Policy
+    url: /privacy-policy/
+    weight: 3
+  - name: Terms and Conditions
+    url: /terms-and-conditions/
+    weight: 4
