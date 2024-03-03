@@ -45,4 +45,6 @@ We can help you with:
 - **Data Extraction** - extracting data from documents using the latest NLP and OCR technology.
 - **Data Analysis** - analysing the extracted data to provide insights and visualisations.
 
+We specialise in building LLMs for tabular data tasks with our wide-ranging experience with key techniques, metrics, models, datasets, and optimisation approaches.
+
 Bring Your Own Cloud (BYOC) or use our cloud. We can also advise on the viability of deploying your solution on-premises.

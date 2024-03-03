@@ -42,3 +42,11 @@ Bespoke work we've done for other clients:
 - Retrieval Augmented Generation (RAG) for a client with a large in-house knowledge base
 - AI-powered chatbots for immediate customer service
 - Enriching NPC interactions in digital environments, making use of platforms like the Godot game engine
+
+We can also consult on:
+
+- language models
+  - retrieval augmentation
+  - fine-tuning
+  - tool usage
+  - prompt engineering (as fine-tuning is not always the best approach)
