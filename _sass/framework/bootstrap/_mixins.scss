@@ -3,40 +3,40 @@
 // Used in conjunction with global variables to enable certain theme features.
 
 // Vendor
-@import "bootstrap/vendor/rfs";
+@import "framework/bootstrap/vendor/rfs";
 
 // Deprecate
-@import "bootstrap/mixins/deprecate";
+@import "framework/bootstrap/mixins/deprecate";
 
 // Helpers
-@import "bootstrap/mixins/breakpoints";
-@import "bootstrap/mixins/color-mode";
-@import "bootstrap/mixins/color-scheme";
-@import "bootstrap/mixins/image";
-@import "bootstrap/mixins/resize";
-@import "bootstrap/mixins/visually-hidden";
-@import "bootstrap/mixins/reset-text";
-@import "bootstrap/mixins/text-truncate";
+@import "framework/bootstrap/mixins/breakpoints";
+@import "framework/bootstrap/mixins/color-mode";
+@import "framework/bootstrap/mixins/color-scheme";
+@import "framework/bootstrap/mixins/image";
+@import "framework/bootstrap/mixins/resize";
+@import "framework/bootstrap/mixins/visually-hidden";
+@import "framework/bootstrap/mixins/reset-text";
+@import "framework/bootstrap/mixins/text-truncate";
 
 // Utilities
-@import "bootstrap/mixins/utilities";
+@import "framework/bootstrap/mixins/utilities";
 
 // Components
-@import "bootstrap/mixins/backdrop";
-@import "bootstrap/mixins/buttons";
-@import "bootstrap/mixins/caret";
-@import "bootstrap/mixins/pagination";
-@import "bootstrap/mixins/lists";
-@import "bootstrap/mixins/forms";
-@import "bootstrap/mixins/table-variants";
+@import "framework/bootstrap/mixins/backdrop";
+@import "framework/bootstrap/mixins/buttons";
+@import "framework/bootstrap/mixins/caret";
+@import "framework/bootstrap/mixins/pagination";
+@import "framework/bootstrap/mixins/lists";
+@import "framework/bootstrap/mixins/forms";
+@import "framework/bootstrap/mixins/table-variants";
 
 // Skins
-@import "bootstrap/mixins/border-radius";
-@import "bootstrap/mixins/box-shadow";
-@import "bootstrap/mixins/gradients";
-@import "bootstrap/mixins/transition";
+@import "framework/bootstrap/mixins/border-radius";
+@import "framework/bootstrap/mixins/box-shadow";
+@import "framework/bootstrap/mixins/gradients";
+@import "framework/bootstrap/mixins/transition";
 
 // Layout
-@import "bootstrap/mixins/clearfix";
-@import "bootstrap/mixins/container";
-@import "bootstrap/mixins/grid";
+@import "framework/bootstrap/mixins/clearfix";
+@import "framework/bootstrap/mixins/container";
+@import "framework/bootstrap/mixins/grid";
