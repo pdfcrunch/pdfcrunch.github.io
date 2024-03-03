@@ -3,40 +3,40 @@
 // Used in conjunction with global variables to enable certain theme features.
 
 // Vendor
-@import "../../framework/bootstrap/vendor/rfs";
+@import "vendor/rfs";
 
 // Deprecate
-@import "framework/bootstrap/mixins/deprecate";
+@import "mixins/deprecate";
 
 // Helpers
-@import "framework/bootstrap/mixins/breakpoints";
-@import "framework/bootstrap/mixins/color-mode";
-@import "framework/bootstrap/mixins/color-scheme";
-@import "framework/bootstrap/mixins/image";
-@import "framework/bootstrap/mixins/resize";
-@import "framework/bootstrap/mixins/visually-hidden";
-@import "framework/bootstrap/mixins/reset-text";
-@import "framework/bootstrap/mixins/text-truncate";
+@import "mixins/breakpoints";
+@import "mixins/color-mode";
+@import "mixins/color-scheme";
+@import "mixins/image";
+@import "mixins/resize";
+@import "mixins/visually-hidden";
+@import "mixins/reset-text";
+@import "mixins/text-truncate";
 
 // Utilities
-@import "framework/bootstrap/mixins/utilities";
+@import "mixins/utilities";
 
 // Components
-@import "framework/bootstrap/mixins/backdrop";
-@import "framework/bootstrap/mixins/buttons";
-@import "framework/bootstrap/mixins/caret";
-@import "framework/bootstrap/mixins/pagination";
-@import "framework/bootstrap/mixins/lists";
-@import "framework/bootstrap/mixins/forms";
-@import "framework/bootstrap/mixins/table-variants";
+@import "mixins/backdrop";
+@import "mixins/buttons";
+@import "mixins/caret";
+@import "mixins/pagination";
+@import "mixins/lists";
+@import "mixins/forms";
+@import "mixins/table-variants";
 
 // Skins
-@import "framework/bootstrap/mixins/border-radius";
-@import "framework/bootstrap/mixins/box-shadow";
-@import "framework/bootstrap/mixins/gradients";
-@import "framework/bootstrap/mixins/transition";
+@import "mixins/border-radius";
+@import "mixins/box-shadow";
+@import "mixins/gradients";
+@import "mixins/transition";
 
 // Layout
-@import "framework/bootstrap/mixins/clearfix";
-@import "framework/bootstrap/mixins/container";
-@import "framework/bootstrap/mixins/grid";
+@import "mixins/clearfix";
+@import "mixins/container";
+@import "mixins/grid";
