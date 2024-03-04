@@ -5,8 +5,8 @@ date: 2024-03-04T09:15:02Z
 authors: ["Juan Uys"]
 categories: ["Tech", "LLM"]
 description: "Using a local large language model to replace Github Copilot."
-thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-1.webp"
+thumbnail: "/assets/images/gen/blog/2024-03-04-local-llm-to-replace-copilot/banner-thumbnail.png"
+image: "/assets/images/gen/blog/2024-03-04-local-llm-to-replace-copilot/banner.png"
 ---
 
 We investigate using a local large language model (LLM) to replace Github Copilot. We'll use the [StarCoder2 model from HuggingFace](https://huggingface.co/blog/starcoder2), as it is quite new and shows great promise, and we'll host it with [ollama](https://ollama.com/), which just a few hours ago announced support for StarCoder2.
