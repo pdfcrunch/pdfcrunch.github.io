@@ -9,7 +9,7 @@ thumbnail: "/assets/images/gen/blog/2024-03-04-local-llm-to-replace-copilot/bann
 image: "/assets/images/gen/blog/2024-03-04-local-llm-to-replace-copilot/banner.png"
 ---
 
-We investigate using a local large language model (LLM) to replace Github Copilot. We'll use the [StarCoder2 model from HuggingFace](https://huggingface.co/blog/starcoder2), as it is quite new and shows great promise, and we'll host it with [ollama](https://ollama.com/), which just a few hours ago announced support for StarCoder2.
+We investigate using a local large language model (LLM) to replace Github Copilot. We'll use the [StarCoder2 model from HuggingFace](https://huggingface.co/blog/starcoder2), as it is quite new and shows great promise, and we'll host it with [ollama](https://ollama.com/), which just a few hours ago announced support for StarCoder2. Then we point VSCode to *ollama + StarCoder2* using the [Continue VSCode extension](https://continue.dev/).
 
 ## Ollama
 
