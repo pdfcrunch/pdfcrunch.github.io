@@ -133,7 +133,7 @@ As a quick test, I gave the chat interface the following prompt:
 
 > Write a quick little snippet in Python that opens a file in binary mode, and prints the hashed contents.
 
-*Continue* by default points to `GPT-4 (Free Trial), which responded with this bit of code:
+*Continue* by default points to `GPT-4 (Free Trial)`, which responded with this bit of code:
 
 ```python
 import hashlib
