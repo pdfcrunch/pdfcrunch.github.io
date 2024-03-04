@@ -176,6 +176,8 @@ However, not bad considering GPT-4 is SOTA, costs a lot more to run, and is (pro
 
 What I'm also very interested in is using my own development data to fine-tune StarCoder2 (or any model I choose to use), and it seems as if [Continue has support for this]('/home/opyate/Documents/code/pdfcrunch/pdfcrunch.github.io/404.jpg') (albeit possibly a paid feature?), but over here at PDFCrunch we're quite confortable fine-tuning our own models anyway.
 
+Another great thing about *Continue* is that it [indexes your entire codebase](https://continue.dev/docs/walkthroughs/codebase-embeddings), so you can ask the model high-level questions about your codebase, like "Do I use X anywhere?" or "Is there any code written already that does X?". Powerfull stuff, and I wonder if there are limitations - you might want to index your million-line monolith or mono-repo.
+
 ## Conclusion
 
 I've just dropped $100 on a new year of Github Copilot earlier this week, but I'll continue using *StarCoder2-15b + ollama + Continue* for the foreseeable future, and see how it stacks up.
