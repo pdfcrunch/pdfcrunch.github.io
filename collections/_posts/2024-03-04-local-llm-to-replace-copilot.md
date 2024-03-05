@@ -59,7 +59,7 @@ However, some models perform better on some programming languages, so it might b
 
 ### Which size model to use?
 
-Which size model you select depends on your GPU's VRAM. The token length of the code you want to prompt with and generate would normally also be a consideration, but all model sizes have a 16K context window, using a sliding window of 4K.
+Which size model you select depends on your GPU's VRAM. The token length of the code you want to prompt with and generate would normally also be a consideration, but all model sizes have a 16K context window, using a sliding window of 4K, with FlashAttention-2, and as the models [don't use the default self-attention algorithm, large input contexts won't exhaust your VRAM](https://huggingface.co/blog/optimize-llm#2-flash-attention-a-leap-forward).
 
 From the paper, confirming the 16K context window:
 
