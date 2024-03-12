@@ -88,6 +88,7 @@ category_dir: category
 
 colors:
   #light-mode colors
+  primary_link: "#2b3af7"
   primary_bg: "#2b3af7"
   primary_bg_2: "#424ff8"
   primary_bg_3: "#702bf7"
@@ -101,7 +102,8 @@ colors:
   header_text: "#0d042b"
 
   # dark-mode colors
-  primary_bg_dark: "#2b3af7"
+  primary_link_dark: "#9abdff"
+  primary_bg_dark: "#171e7c"
   primary_bg_2_dark: "#424ff8"
   primary_bg_3_dark: "#702bf7"
   primary_text_dark: "#fdfcf9"
