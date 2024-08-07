@@ -18,6 +18,16 @@ main:
         url: /services/data-synthesis/
       - name: "Bespoke Development & Consulting"
         url: /services/bespoke/
+  - name: Case studies
+    url: /casestudies/
+    weight: 1
+    child:
+      - name: "Credit Monster"
+        url: /casestudies/credit-monster/
+      - name: "DunnHumby"
+        url: /casestudies/dunnhumby/
+      - name: "Cytora"
+        url: /casestudies/cytora/
   # - name: Projects
   #   url: /projects/
   #   weight: 2

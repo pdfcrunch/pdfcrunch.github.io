@@ -1,14 +1,14 @@
 ---
 layout: list
-title: Services
-description: "A selection of our digital services"
-permalink: "/services/"
+title: Case studies
+description: "A selection of case studies"
+permalink: "/casestudies/"
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Services"
-  sub_heading: "We offer a complete range of digital services."
+  heading: "Case studies"
+  sub_heading: "Selected case studies of client work."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
@@ -29,7 +29,7 @@ hero:
         style: "light"
 
 grid:
-  collection: "services"
+  collection: "casestudies"
   sort_by: "weight" # "date", "weight"
   columns: 3
   prevent_click: false

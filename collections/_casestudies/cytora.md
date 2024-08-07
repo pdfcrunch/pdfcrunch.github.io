@@ -1,6 +1,6 @@
 ---
-title: "Bespoke Development & Consulting"
-description: "ML/AI-focused bespoke software development and consulting."
+title: "Cytora"
+description: "A case study of Cytora."
 date: 2019-10-03
 weight: 6
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-6.webp"
 
 hero:
   enabled: true
-  heading: "Bespoke Development & Consulting"
-  sub_heading: "ML/AI-focused bespoke software development and consulting."
+  heading: "Cytora"
+  sub_heading: "A case study of Cytora."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -33,6 +33,12 @@ hero:
         style: "primary"
 ---
 
-# Credit Monster Money Finder
+# Cytora
 
-https://creditmonster.com/money-finder
+**RiskGPT**
+
+In 2023, Juan helped [Cytora](https://www.cytora.com/) with their goal of reducing the underwriting process from 2 weeks to 20 minutes using the latest developments in document understanding and language models.
+
+> I really want to thank Juan for the contributions he's made to Cytora over the last year, the work we have done on LLMs has driven a compelling new direction for our product.
+
+&mdash; [Sam Lewis](https://www.linkedin.com/in/sam-lewis-93b84bb/), VP Product, Cytora

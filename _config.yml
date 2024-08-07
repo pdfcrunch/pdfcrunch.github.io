@@ -21,6 +21,9 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
+  casestudies:
+    output: true
+    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
@@ -38,6 +41,11 @@ defaults:
       type: services
     values:
       layout: service
+  - scope:
+      path: ""
+      type: casestudies
+    values:
+      layout: casestudy
   - scope:
       path: ""
       type: projects
@@ -155,7 +163,7 @@ darkmode:
   show_dark_mode_toggle_in_mobile_menu: true
 
 cookie_banner:
-  enabled: true
+  enabled: false
   show_manage_cookies_at_bottom: true
 
 analytics:
@@ -211,4 +219,6 @@ sidebar:
   enable_breadcrumbs_services: true
   enable_sidebar_projects: false
   enable_breadcrumbs_projects: true
+  enable_sidebar_casestudies: true
+  enable_breadcrumbs_casestudies: true
 
