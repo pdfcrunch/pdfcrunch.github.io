@@ -5,9 +5,9 @@ date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-source-code-100.png"
-thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
-image: "/assets/images/gen/services/service-1.webp"
+icon: "assets/images/icons/icons8-design-100.png"
+thumbnail: "/assets/images/gen/services/documentunderstanding-thumbnail.png"
+image: "/assets/images/gen/services/documentunderstanding.png"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-1-large.webp"
+  background_image: "/assets/images/gen/services/documentunderstanding-large.png"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

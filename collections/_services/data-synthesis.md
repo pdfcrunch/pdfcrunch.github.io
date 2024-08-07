@@ -6,8 +6,8 @@ weight: 5
 header_transparent: true
 fa_icon: "far fa-chart-bar"
 icon: "assets/images/icons/icons8-bar-chart-100.png"
-thumbnail: "/assets/images/gen/services/service-5-thumbnail.webp"
-image: "/assets/images/gen/services/service-5.webp"
+thumbnail: "/assets/images/gen/services/datasynthesis-thumbnail.png"
+image: "/assets/images/gen/services/datasynthesis.png"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-5.webp"
+  background_image: "/assets/images/gen/services/datasynthesis.png"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

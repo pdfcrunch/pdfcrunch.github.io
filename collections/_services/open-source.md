@@ -5,9 +5,9 @@ date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-design-100.png"
-thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
-image: "/assets/images/gen/services/service-4.webp"
+icon: "assets/images/icons/icons8-source-code-100.png"
+thumbnail: "/assets/images/gen/services/opensource-thumbnail.png"
+image: "/assets/images/gen/services/opensource.png"
 
 hero:
   enabled: true
@@ -17,7 +17,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-4-large.webp"
+  background_image: "/assets/images/gen/services/opensource-large.png"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: 660px;

@@ -4,9 +4,9 @@ description: "Take your machine learning models to production, with continued ma
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
-icon: "assets/images/icons/icons8-user-engagement-male-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+icon: "assets/images/icons/icons8-stacked-organizational-chart-100.png"
+thumbnail: "/assets/images/gen/services/mlops-thumbnail.png"
+image: "/assets/images/gen/services/mlops.png"
 
 hero:
   enabled: true
@@ -16,7 +16,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image: "/assets/images/gen/services/mlops.png"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
