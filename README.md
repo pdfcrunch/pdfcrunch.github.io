@@ -33,6 +33,14 @@ The project we worked on was both high quality and highly productive, probably t
 
 ## Asset sizes
 
+### Services
+
 name           1240x827
+name-large     1920x1080
+name-thumbnail 1240x698
+
+### Content
+
+name           1240x1860
 name-large     1920x1080
 name-thumbnail 1240x698

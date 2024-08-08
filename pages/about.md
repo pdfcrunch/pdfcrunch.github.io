@@ -5,7 +5,7 @@ date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
 description: "Who we are and what we do."
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/content/doc1.png"
 
 hero:
   enabled: false

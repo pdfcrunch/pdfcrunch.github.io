@@ -49,7 +49,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  image: "/assets/images/gen/content/doc1-thumbnail.png"
   heading: "We've helped businesses turn documents into actionable data."
   sub_heading: "Our machine learning expertise and cloud engineering capabilities enable us to transform complex documents into valuable data assets. Our consultancy services are designed to help you integrate this newly extracted data into your existing systems, analyse it for insights, and leverage it to make informed decisions."
   features:
