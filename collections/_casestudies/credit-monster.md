@@ -5,7 +5,7 @@ date: 2019-10-03
 weight: 3
 header_transparent: true
 fa_icon: "fab fa-codepen"
-icon: "assets/images/icons/casestudy-100-invert.png"
+icon: "assets/images/icons/casestudy-100.png"
 thumbnail: "/assets/images/clients/creditmonster-thumbnail.png"
 image: "/assets/images/clients/creditmonster.png"
 
