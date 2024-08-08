@@ -2,6 +2,9 @@
   <div class="container relative">
     <div class="row align-items-center justify-content-between">
       <div class="col-auto">
+        {% if site.bottom.trading_as and site.bottom.trading_as != "" %}
+          <div class="trading_as">{{ site.bottom.trading_as }}</div>
+        {% endif %}
        
         {% if site.bottom.enable_bottom_menu %}
           {% include framework/menu-bottom.html %}

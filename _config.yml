@@ -157,7 +157,7 @@ open_graph:
   meta_twitter_creator: "@pdfcrunch"
 
 darkmode:
-  enable_dark_mode: true
+  enable_dark_mode: false
   show_dark_mode_toggle_in_header: false
   show_dark_mode_toggle_in_bottom: true
   show_dark_mode_toggle_in_mobile_menu: true
@@ -210,8 +210,9 @@ footer:
 
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
-  enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
+  enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
   copyright_text: "© 2024 Unleash Your Server Limited"
+  trading_as: "pdfcrun.ch® is a trading name of Unleash Your Server Ltd, a company registered in England and Wales with company number 8951056"
   show_rss_icon: true
 
 sidebar:
