@@ -42,3 +42,16 @@ In 2023, Juan helped [Cytora](https://www.cytora.com/) with their goal of reduci
 > I really want to thank Juan for the contributions he's made to Cytora over the last year, the work we have done on LLMs has driven a compelling new direction for our product.
 
 &mdash; [Sam Lewis](https://www.linkedin.com/in/sam-lewis-93b84bb/), VP Product, Cytora
+
+## Detail
+
+- fine-tuning smaller (3-7b parameters) open-source models with applications in structured data extraction (fields, addresses), and singular field extraction ("single field experts")
+  - applied: dolly
+  - research: llama(+derivatives)/mistral/mixtral, mixtures of experts
+- prompt engineering
+  - applied: zero/few-shot, chain-of-thought
+  - research: prompt chaining, automatic reasoning, auto prompts, function calling
+- fine-tuning large foundational models
+  - applied: Google's PaLM2/Vertex, Databricks
+  - research: Amazon Bedrock
+- research into layout detection (LayoutXLM trained with DocLayNet/PubLayNet)
