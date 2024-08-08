@@ -56,6 +56,9 @@ footer_primary:
   - name: Services
     url: /services/
     weight: 2
+  - name: Case Studies
+    url: /casestudies/
+    weight: 2
   # - name: Projects
   #   url: /projects/
   #   weight: 3

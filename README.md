@@ -24,10 +24,15 @@ We discuss an approach to do document data extraction using large language model
 
 DunnHumby
 Juan has been a pivotal team member on our project, also spotting opportunities to go above and beyond to deliver more value to the project.
-Drop Shadow
 
 Credit Monster
 Hire Juan if you want to supercharge your project, or more generally if you value dedication and quality craftsmanship.
 
 The App Business
 The project we worked on was both high quality and highly productive, probably the fastest delivery project I've worked on 
+
+## Asset sizes
+
+name           1240x827
+name-large     1920x1080
+name-thumbnail 1240x698
