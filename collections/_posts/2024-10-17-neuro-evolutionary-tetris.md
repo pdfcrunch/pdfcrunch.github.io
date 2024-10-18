@@ -11,9 +11,11 @@ image: "/assets/images/gen/blog/2024-10-17-neuro-evolutionary-tetris/tetris-bots
 
 I want a teach a neural network how to play Tetris.
 
-The source code for this experiment can be found here: [https://github.com/opyate/neuro-evolved-tetris](https://github.com/opyate/neuro-evolved-tetris)
+> source code: [https://github.com/opyate/neuro-evolved-tetris](https://github.com/opyate/neuro-evolved-tetris)
+>
+> video: [https://youtu.be/rji6zOQgJZs](https://youtu.be/rji6zOQgJZs)
 
-*(A video is coming soon; currently rendering in Blender ;-)*
+
 
 What are the possible approaches?
 
