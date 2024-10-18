@@ -13,6 +13,8 @@ I want a teach a neural network how to play Tetris.
 
 The source code for this experiment can be found here: [https://github.com/opyate/neuro-evolved-tetris](https://github.com/opyate/neuro-evolved-tetris)
 
+*(A video is coming soon; currently rendering in Blender ;-)*
+
 What are the possible approaches?
 
 A supervised learning approach could be that I record a Tetris world champion playing lots and lots of games, then create a large labelled dataset, then train a model on said dataset. However, that's a lot of work, and the model might generalise to play exactly like that world champion and potentially miss out on novel Tetris techniques and play styles.
