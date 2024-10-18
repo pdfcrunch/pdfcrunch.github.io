@@ -11,6 +11,8 @@ image: "/assets/images/gen/blog/2024-10-17-neuro-evolutionary-tetris/tetris-bots
 
 I want a teach a neural network how to play Tetris.
 
+The source code for this experiment can be found here: [https://github.com/opyate/neuro-evolved-tetris](https://github.com/opyate/neuro-evolved-tetris)
+
 What are the possible approaches?
 
 A supervised learning approach could be that I record a Tetris world champion playing lots and lots of games, then create a large labelled dataset, then train a model on said dataset. However, that's a lot of work, and the model might generalise to play exactly like that world champion and potentially miss out on novel Tetris techniques and play styles.
@@ -102,8 +104,6 @@ We define a very small mutation rate (0.01) which means that only 1% of the weig
 # Results
 
 ![Zoomed into a subset of the bots](/assets/images/gen/blog/2024-10-17-neuro-evolutionary-tetris/sim.gif)
-
-The source code for this experiment can be found here: [https://github.com/opyate/neuro-evolved-tetris](https://github.com/opyate/neuro-evolved-tetris)
 
 After 2,000 rounds of Tetris, the bots are clearly on an upward trajectory and increasing their fitness.
 
