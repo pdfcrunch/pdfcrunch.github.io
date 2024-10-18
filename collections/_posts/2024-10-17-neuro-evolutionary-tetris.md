@@ -33,9 +33,11 @@ Here are some high level steps that describes the simulation.
 
 - spawn thousands of bots from the simulation runner
 - each bot contains
-    - a brain, aka a zeroed [PyTorch network](#the-pytorch-network), which has
+    - a brain, aka a [PyTorch network](#the-pytorch-network), which has
         - 10x10 inputs which represents the Tetris grid
+        - a hidden layer
         - 7 outputs which represents the possible player moves (left, right, etc)
+        - random initial weights
     - a [Tetris engine](#the-tetris-engine), which
         - maintains the internal game state
         - allows 7 possible moves to modify said game state
