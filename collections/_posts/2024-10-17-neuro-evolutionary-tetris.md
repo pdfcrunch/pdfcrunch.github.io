@@ -27,6 +27,8 @@ But, I want to try something a bit different, like genetic algorithms [&#x1D43;]
 
 Like reinforcement learning, neuroevolution allows an AI to learn through interaction with an environment, but instead of directly adjusting actions, neuroevolution focuses on evolving the neural network. Different neural networks with varying weights [&#x1D47;](#footnote-b) are tested in the game, and the ones that achieve higher scores are selected and "bred" to create new generations of better-performing Tetris players.
 
+Crucially, this approach will differ from the other approaches in that it doesn't use backpropagation to update the network weights and biases (during which the network uses gradient descent to calculate the gradient of the error with respect to each weight and bias, with the gradient indicating the direction and magnitude of change needed to reduce the error). If you look at the code, you'll only see the forward pass implemented.
+
 So, neuroevolution it is!
 
 # Overview of experiment
